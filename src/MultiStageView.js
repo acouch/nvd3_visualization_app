@@ -1,4 +1,4 @@
-;(function ($, my) {
+;(function ($, my, recline) {
   'use strict';
 
   my.MultiStageView = Backbone.View.extend({
@@ -79,4 +79,4 @@
     }
   });
 
-})(jQuery, window);
+})(jQuery, window, this.recline);

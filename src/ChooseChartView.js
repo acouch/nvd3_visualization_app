@@ -1,4 +1,4 @@
-;(function ($, my) {
+;(function ($, my, recline) {
   'use strict';
 
 
@@ -67,4 +67,4 @@
     }
   });
 
-})(jQuery, window);
+})(jQuery, window, this.recline);

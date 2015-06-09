@@ -1,4 +1,4 @@
-;(function ($, my) {
+;(function ($, my, recline) {
   'use strict';
 
   my.DataOptionsView = Backbone.View.extend({
@@ -72,4 +72,4 @@
     }
   });
 
-})(jQuery, window);
+})(jQuery, window, this.recline);

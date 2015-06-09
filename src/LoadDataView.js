@@ -1,4 +1,4 @@
-;(function ($, my) {
+;(function ($, my, recline) {
   'use strict';
 
   my.LoadDataView = Backbone.View.extend({
@@ -47,4 +47,4 @@
     }
   });
 
-})(jQuery, window);
+})(jQuery, window, this.recline);
