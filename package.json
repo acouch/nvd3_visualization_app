@@ -1,5 +1,5 @@
 {
-  "name": "recline.view.nvd3",
+  "name": "nvd3_visualization_app",
   "version": "0.1.0",
   "devDependencies": {
     "expect.js": "^0.3.1",
