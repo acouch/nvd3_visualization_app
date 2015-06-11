@@ -48,4 +48,4 @@ this.recline.View = this.recline.View || {};
       return computedState;
     }
   });
-})(jQuery, recline.View.nvd3);
+})(jQuery, this.recline.View.nvd3);
