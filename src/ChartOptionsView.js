@@ -1,4 +1,4 @@
-;(function ($, my, this.recline) {
+;(function ($, my, recline) {
   'use strict';
 
   my.ChartOptionsView = Backbone.View.extend({
